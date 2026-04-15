@@ -14,4 +14,4 @@ def get_posts():
         data = file.read()
     return data
 
-# print(get_posts())
+
